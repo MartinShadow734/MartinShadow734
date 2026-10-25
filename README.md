@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Martin
 
-<!--
-**MartinShadow734/MartinShadow734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Technician working toward **NOC and Security Analyst** roles. I hold **CompTIA Security+**, **CompTIA A+**, and **ISC2 CC**, and I'm studying for the **CCNA**. Business Analytics and Information Systems graduate with a cybersecurity concentration, Magna Cum Laude.
 
-Here are some ideas to get you started:
+I learn by building and documenting real systems, not just studying for exams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm working on
+
+- **[HomeLab](https://github.com/MartinShadow734/HomeLab)** — a hands-on infrastructure and security lab: Proxmox virtualization, VLAN segmentation, OPNsense firewalling, and security monitoring. Every project is documented like real work: the problem, what I built, how I troubleshot it, and how I verified it.
+- **[Healthcare Patient Flow Dashboard](https://github.com/MartinShadow734/healthcare-patient-flow-dashboard)** — a data analytics project on hospital patient flow, cost, and readmission risk.
+
+#### Skills I'm building
+
+- **Infrastructure:** Proxmox, Linux (Ubuntu Server), virtualization, VM migration
+- **Networking:** VLANs, firewalls, segmentation, remote access (Tailscale, SSH)
+- **Security:** system hardening, monitoring, and detection (in progress)
+- **Documentation:** clear technical write-ups and change tracking
+
+#### Connect
+
+- LinkedIn: [linkedin.com/in/martin-capula](https://www.linkedin.com/in/martin-capula)
