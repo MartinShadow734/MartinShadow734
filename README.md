@@ -6,8 +6,8 @@ I learn by building and documenting real systems, not just studying for exams.
 
 #### What I'm working on
 
-- **[HomeLab](https://github.com/MartinShadow734/HomeLab)** — a hands-on infrastructure and security lab: Proxmox virtualization, VLAN segmentation, OPNsense firewalling, and security monitoring. Every project is documented like real work: the problem, what I built, how I troubleshot it, and how I verified it.
-- **[Healthcare Patient Flow Dashboard](https://github.com/MartinShadow734/healthcare-patient-flow-dashboard)** — a data analytics project on hospital patient flow, cost, and readmission risk.
+- **[HomeLab](https://github.com/MartinShadow734/HomeLab)**: a hands-on infrastructure and security lab: Proxmox virtualization, VLAN segmentation, OPNsense firewalling, and security monitoring. Every project is documented like real work: the problem, what I built, how I troubleshot it, and how I verified it.
+- **[Healthcare Patient Flow Dashboard](https://github.com/MartinShadow734/healthcare-patient-flow-dashboard)**: a data analytics project on hospital patient flow, cost, and readmission risk.
 
 #### Skills I'm building
 
